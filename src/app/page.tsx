@@ -1,4 +1,3 @@
-// ESTO ES LO QUE NECESITAS AÑADIR PARA SOLUCIONAR EL ERROR EN NEXT.JS
 "use client"; 
 
 import React from 'react';
